@@ -1,2 +1,3 @@
 CRICKET
 It is the most popular game in India.
+The team contains 15 players in which 11 are playing.
